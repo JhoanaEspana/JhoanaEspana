@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jhoana España - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Jhoana España - Graphic designer and Web developer<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ## 🙋 About Me
 
