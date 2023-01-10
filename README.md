@@ -2,7 +2,7 @@
 
 ## 🙋 About Me
 
-- 👀 I’m interested in web design and developer
+- 👀 I’m interested in web design and development
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on some proyect about JavaScript and React
 - ⚡ **[My Portfolio](https://www.behance.net/JhoEspana)**
