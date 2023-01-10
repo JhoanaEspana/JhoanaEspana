@@ -20,23 +20,27 @@
 
 ## 💻 Languages and Tools:
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### ⭐ Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en&layout=compact" alt="rajon-dey" /></p>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en" alt="GitHub Stats" /></p>
+  
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en&layout=compact" alt="rajon-dey" /></p>
+</div>
+</div>
  
 <!---
 JhoanaEspana/JhoanaEspana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
