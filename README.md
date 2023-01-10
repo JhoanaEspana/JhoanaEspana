@@ -42,7 +42,7 @@
 
   
   
-### ⭐ Github Stats:
+## ⭐ Github Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en" alt="GitHub Stats" />
