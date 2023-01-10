@@ -46,7 +46,7 @@
 
   <div align="center">
     <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en" alt="GitHub Stats" />
-    <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en&layout=compact" alt="rajon-dey" />
+    <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en&layout=compact" alt="GitHub Stats" />
   </div>
  
  
