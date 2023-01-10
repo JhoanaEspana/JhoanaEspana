@@ -12,9 +12,9 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/jhoespana/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/JhoanaEspana"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.behance.net/JhoEspana"><img src="https://icons8.com/icon/13655/behance"/></a>
+<a href = "https://www.linkedin.com/in/jhoespana/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://www.behance.net/JhoEspana"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href = "https://twitter.com/JhoanaEspana"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
 
@@ -34,13 +34,11 @@
 
 ### ⭐ Github Stats
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en" alt="GitHub Stats" />
   
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en&layout=compact" alt="rajon-dey" /></p>
-</div>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en&layout=compact" alt="rajon-dey" />
+</p>
  
 <!---
 JhoanaEspana/JhoanaEspana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
