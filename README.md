@@ -2,8 +2,8 @@
 
 ## 🙋 About Me
 
-- 👀 I’m interested in web design and development
-- 🌱 I’m currently learning JavaScript and React
+- 👀 I’m interested in learning and evolving as a frontend programmer
+- 🌱 I’m currently learning React and Vue
 - 💞️ I’m looking to collaborate on some proyect about JavaScript and React
 - ⚡ **[My Portfolio](https://www.behance.net/JhoEspana)**
 - 📫 If you need some information about me, write me www.behance.net/JhoEspana
@@ -44,11 +44,11 @@
   
 ## ⭐ Github Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en&layout=compact" alt="rajon-dey" />
-</p>
+  <div align="center">
+    <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en" alt="GitHub Stats" />
+    <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en&layout=compact" alt="rajon-dey" />
+  </div>
+ 
  
 <!---
 JhoanaEspana/JhoanaEspana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
