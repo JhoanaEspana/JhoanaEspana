@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Jhoana España<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"></br>Graphic designer and Web developer</h1>
+<div align="center">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;">
+</div>
 
-## 🙋 About Me
+## 🙋 About Me 
+<div>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hyperkitty.gif" style="width: 50px;">
+</div>
 
 - 👀 I’m interested in learning and evolving as a frontend programmer
 - 🌱 I’m currently learning React and Vue
@@ -41,14 +47,15 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
   
+ <!---
   
 ## ⭐ Github Stats:
 
   <div align="center">
-    <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en" alt="GitHub Stats" />
-    <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanaEspana&show_icons=true&theme=dracula&title_color=3cb480&locale=en&layout=compact" alt="GitHub Stats" />
+    <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=radical&title_color=3cb480&locale=en" alt="GitHub Stats" />
+    <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanaEspana&show_icons=true&theme=radical&title_color=3cb480&locale=en&layout=compact" alt="GitHub Stats" />
   </div>
- 
+ --->
  
 <!---
 JhoanaEspana/JhoanaEspana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
