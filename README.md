@@ -47,7 +47,7 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
   
- <!---
+
   
 ## ⭐ Github Stats:
 
@@ -55,7 +55,7 @@
     <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=JhoanaEspana&show_icons=true&theme=radical&title_color=3cb480&locale=en" alt="GitHub Stats" />
     <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoanaEspana&show_icons=true&theme=radical&title_color=3cb480&locale=en&layout=compact" alt="GitHub Stats" />
   </div>
- --->
+
  
 <!---
 JhoanaEspana/JhoanaEspana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
