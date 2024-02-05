@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React and Vue
 - 💞️ I’m looking to collaborate on some proyect about JavaScript and React
 - ⚡ **[My Portfolio](https://www.behance.net/JhoEspana)**
-- 📫 If you need some information about me, write me**[write me](https://www.linkedin.com/in/jhoespana/)**
+- 📫 If you need some information about me, **[write me](https://www.linkedin.com/in/jhoespana/)**
 
 ### 📫 Get in touch:
 
