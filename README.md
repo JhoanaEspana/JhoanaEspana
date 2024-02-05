@@ -4,9 +4,6 @@
 </div>
 
 ## 🙋 About Me 
-<div>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hyperkitty.gif" style="width: 50px;">
-</div>
 
 - 👀 I’m interested in learning and evolving as a frontend programmer
 - 🌱 I’m currently learning React and Vue
