@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jhoana España<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"></br>Graphic designer and Web developer</h1>
+<h1 align="center">Hi, I'm Jhoana España<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"></br>Frontend developer and Graphic designer</h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;">
 </div>
